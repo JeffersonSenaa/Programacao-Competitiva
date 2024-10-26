@@ -3,10 +3,10 @@
 1. Tipos de dados e operadores aritméticos, lógicos e relacionais
     [x] 1. [Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
     [x] 2. [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007)
-    [ ] 3. [Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002)
-    [ ] 4. [Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011)
-    [ ] 5. [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006)
-    [ ] 6. [Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012)
+    [x] 3. [Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002)
+    [x] 4. [Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011)
+    [x] 5. [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006)
+    [x] 6. [Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012)
     [ ] 7. [Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017)
     [ ] 8. [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019)
     [ ] 9. [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)
@@ -61,7 +61,7 @@
     [ ] 10. [Conversa Internacional](https://www.beecrowd.com.br/judge/pt/problems/view/1581)
 
 6. Revisão geral
-    [ ] 1. [Corrida](https://www.beecrowd.com.br/judge/pt/problems/view/2416)
+    [x] 1. [Corrida](https://www.beecrowd.com.br/judge/pt/problems/view/2416)
     [ ] 2. [Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424)
     [ ] 3. [Vice-Campeão](https://www.beecrowd.com.br/judge/pt/problems/view/2408)
     [ ] 4. [Receita de Bolo](https://www.beecrowd.com.br/judge/pt/problems/view/2423)
@@ -80,7 +80,7 @@
     [ ] 17. [Rabiola](https://www.beecrowd.com.br/judge/pt/problems/view/1876)
     [ ] 18. [Frota de Taxi](https://www.beecrowd.com.br/judge/pt/problems/view/2295)
     [ ] 19. [Campo de Minhocas](https://www.beecrowd.com.br/judge/pt/problems/view/2293)
-    [ ] 20. [Letras](https://www.beecrowd.com.br/judge/pt/problems/view/2457)
+    [x] 20. [Letras](https://www.beecrowd.com.br/judge/pt/problems/view/2457)
     [ ] 21. [Inseto](https://www.beecrowd.com.br/judge/pt/problems/view/2862)
     [ ] 22. [Overflow](https://www.beecrowd.com.br/judge/pt/problems/view/2342)
     [ ] 23. [Sequência Espelho](https://www.beecrowd.com.br/judge/pt/problems/view/2157)
