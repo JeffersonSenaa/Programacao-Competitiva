@@ -49,7 +49,7 @@
     [ ] 10. [Sequência da Sequência](https://www.beecrowd.com.br/judge/pt/problems/view/2028)
 
 5. Funções e strings
-    [ ] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
+    [x] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
     [ ] 2. [Bazinga!](https://www.beecrowd.com.br/judge/pt/problems/view/1828)
     [ ] 3. [Um-Dois-Três](https://www.beecrowd.com.br/judge/pt/problems/view/1332)
     [ ] 4. [Árvore de Natal](https://www.beecrowd.com.br/judge/pt/problems/view/1768)
@@ -62,7 +62,7 @@
 
 6. Revisão geral
     [x] 1. [Corrida](https://www.beecrowd.com.br/judge/pt/problems/view/2416)
-    [ ] 2. [Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424)
+    [x] 2. [Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424)
     [ ] 3. [Vice-Campeão](https://www.beecrowd.com.br/judge/pt/problems/view/2408)
     [ ] 4. [Receita de Bolo](https://www.beecrowd.com.br/judge/pt/problems/view/2423)
     [ ] 5. [Chocolate](https://www.beecrowd.com.br/judge/pt/problems/view/2427)
