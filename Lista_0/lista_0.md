@@ -7,15 +7,15 @@
     [x] 4. [Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011)
     [x] 5. [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006)
     [x] 6. [Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012)
-    [ ] 7. [Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017)
-    [ ] 8. [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019)
-    [ ] 9. [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)
+    [x] 7. [Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017)
+    [x] 8. [Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019)
+    [x] 9. [O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)
     [ ] 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)
 
 2. Condicionais
     [x] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
     [x] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
-    [ ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
+    [x] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
     [ ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
     [ ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
     [ ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
@@ -26,8 +26,8 @@
 
 3. Laços
     [x] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
-    [ ] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
-    [ ] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
+    [x] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
+    [x] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
     [ ] 4. [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)
     [ ] 5. [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132)
     [ ] 6. [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)

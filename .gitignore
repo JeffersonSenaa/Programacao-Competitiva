@@ -7,6 +7,22 @@ __pycache__/
 *.so
 *.json
 
+# Ignora arquivos de objetos e executáveis
+*.o
+*.obj
+*.exe
+*.out
+
+
+# Arquivos de backup e logs
+*~
+*.swp
+*.log
+
+# Diretórios de build e bin
+/build/
+/bin/
+
 # Distribution / packaging
 .Python
 build/
